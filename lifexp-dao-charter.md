@@ -1,4 +1,4 @@
-# LifeXP DAO Charter (Starter Version)
+# LifeXP DAO Charter
 
 ## 1. Purpose
 
@@ -27,7 +27,8 @@ This DAO is legally wrapped as **LifeXP DAO LLC**, a Wyoming-based limited liabi
 ## 5. Off-Chain Documentation
 
 * Canonical version of this charter is hosted at:  
-[https://github.com/lifexp-dao/lifexp-public/lifexp-dao-charter.md]https://github.com/lifexp-dao/lifexp-public/lifexp-dao-charter.md)
+[https://github.com/lifexp-dao/lifexp-public/blob/main/lifexp-dao-charter.md]https://github.com/lifexp-dao/lifexp-public/blob/main/lifexp-dao-charter.md)
+lifexp-dao-charter.md
 
 * All legal documents (Articles of Organization, IP filings, DAO operating policies) are open and versioned in the LifeXP GitHub repository.
 

@@ -1,4 +1,4 @@
-# LifeXP Trademark Class Descriptions (Copy-Paste Ready)
+# LifeXP Trademark Class Descriptions
 
 These descriptions are tailored for submission to the USPTO (U.S.) and UK IPO (U.K.) when filing a trademark for LifeXP under Classes 9, 35, and 42. They reflect the platform's decentralized, on-chain, experience-verification capabilities.
 
