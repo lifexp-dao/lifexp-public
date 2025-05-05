@@ -16,6 +16,9 @@ This site is hosted via GitHub Pages and serves as the canonical reference for:
 
   * Outlines the DAO's purpose, legal entity, smart contract layer, and amendment process
 
+* 📄 [View DAO Legal Status](./dao-legal-status.md)
+
+
 ## 🛡 Trademark
 
 * 📝 [Trademark Class Descriptions](./trademark/lifexp-trademark-descriptions.md)

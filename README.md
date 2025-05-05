@@ -18,6 +18,8 @@ This repo contains transparency materials required for:
 
 * [lifexp-dao-charter.md](./lifexp-dao-charter.md)
 * Governs how the DAO operates, votes, and evolves
+* 📄 [View DAO Legal Status](./dao-legal-status.md)
+
 
 ### 🛡 Trademark Filing
 
