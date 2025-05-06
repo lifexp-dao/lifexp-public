@@ -45,6 +45,10 @@ LifeXP DAO aims to operate as a community-governed, legally structured, and on-c
 * 🔒 Strategy, roadmap, and internal ops: Private
 * ✅ Community governance outcomes: Summarized periodically
 
+📄 Governance Strategy: [lifexp-dao-strategy.md](./lifexp-dao-strategy.md)
+📚 Provider Rules & Proposals: See Sections 13–15 of Strategy
+
+
 ---
 
 ## 📬 Contact
