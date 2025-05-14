@@ -6,7 +6,7 @@ LifeXP DAO exists to empower individuals and communities to capture, verify, and
 
 ## 2. Legal Entity
 
-This DAO is legally wrapped as **LifeXP DAO LLC**, a Wyoming-based limited liability company formed under the Wyoming Decentralized Autonomous Organization Supplement (Senate Bill 38, 2021).
+This DAO is legally wrapped as **LifeXP Collective LLC**, a Wyoming-based limited liability company formed under the Wyoming Decentralized Autonomous Organization Supplement (Senate Bill 38, 2021).
 
 ## 3. Governance
 
@@ -21,20 +21,18 @@ This DAO is legally wrapped as **LifeXP DAO LLC**, a Wyoming-based limited liabi
 
 * Core DAO logic is governed by Ethereum smart contracts deployed at:
 
-  * `XPToken.sol` contract address: `0xC6577b3aF8A606666Eb12CF84D7D69Fb97F1b449`
+  * `XPToken.sol` contract address: `0x...`
   * Other governance contracts TBD
 
 ## 5. Off-Chain Documentation
 
-* Canonical version of this charter is hosted at:  
-[https://github.com/lifexp-dao/lifexp-public/blob/main/lifexp-dao-charter.md](https://github.com/lifexp-dao/lifexp-public/blob/main/lifexp-dao-charter.md)
-lifexp-dao-charter.md
-
+* Canonical version of this charter is hosted at:
+  [https://github.com/lifexp-dao/lifexp-public/blob/main/lifexp-dao-charter.md](https://github.com/lifexp-dao/lifexp-public/blob/main/lifexp-dao-charter.md)
 * All legal documents (Articles of Organization, IP filings, DAO operating policies) are open and versioned in the LifeXP GitHub repository.
 
 ## 6. Limitation of Liability
 
-LifeXP DAO LLC is not responsible for actions taken by independent members unless such actions are explicitly authorized by a DAO-wide vote or formal agreement.
+LifeXP Collective LLC is not responsible for actions taken by independent members unless such actions are explicitly authorized by a DAO-wide vote or formal agreement.
 
 ## 7. Amendment Process
 
@@ -44,4 +42,4 @@ This Charter may be amended by a DAO-wide vote with at least 51% of XP token hol
 
 **Adopted:** \[TBD]
 
-**Filed with:** Wyoming Secretary of State (as part of Articles of Organization or linked via public GitHub)
+\*\*Filed with: Wyoming Secretary of State under Entity ID 2025-001677185 (as part of Articles of Organization or linked via public GitHub)
