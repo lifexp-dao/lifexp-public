@@ -6,10 +6,11 @@ As of **May 5, 2025**, LifeXP DAO has entered formal legal formation as a decent
 
 ## ✅ Entity Status
 
-* **Legal Name:** LifeXP DAO LLC
+* **Legal Name:** LifeXP Collective LLC *(formerly LifeXP DAO LLC)*
 * **Jurisdiction:** State of Wyoming, United States
 * **Entity Type:** Member-Managed DAO LLC
 * **Filing Date:** May 5, 2025
+* **State Entity ID:** 2025-001677185
 * **Registered Agent:** Wyoming Registered Agent LLC (Cheyenne, WY)
 * **Charter:** [LifeXP DAO Charter (Public Repo)](https://github.com/lifexp-dao/lifexp-public/blob/main/lifexp-dao-charter.md)
 
@@ -17,18 +18,20 @@ As of **May 5, 2025**, LifeXP DAO has entered formal legal formation as a decent
 
 ## 🧾 Federal Filing
 
-* **EIN Application:** Submitted, pending state confirmation
+* **EIN:** Issued May 2025 (used for DAO operations, bank account setup, and IRS compliance)
 * **Responsible Party:** Founding member (U.S.-based)
 * **Purpose:** Develop blockchain-based platform to track, verify, and reward real-world experiences
 
 ---
 
-## ™ Trademark Filing (Planned)
+## ™ Trademark Filing
 
 * **Mark:** LifeXP
-* **Applicant:** LifeXP DAO LLC
-* **Jurisdictions:** United States (USPTO), United Kingdom (UKIPO)
-* **Specimen:** Screenshots from [lifexp-dao.github.io/lifexp-public](https://lifexp-dao.github.io/lifexp-public)
+* **Applicant:** LifeXP Collective LLC
+* **Jurisdictions:** United States (USPTO)
+* **Serial Number:** 99185145
+* **Filing Date:** May 14, 2025
+* **Specimen:** [lifexp-home.jpg](https://lifexp-dao.github.io/lifexp-public/screenshots/lifexp-home.jpg)
 
 ---
 
