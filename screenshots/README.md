@@ -8,22 +8,30 @@ Each screenshot shows a different view of the MVP application as deployed via Ve
 
 ## 📸 Screenshot Descriptions
 
-### 🖼 lifexp-home.png
+### 🖼 lifexp-home.jpg
+
+![LifeXP Home Screenshot](./lifexp-home.jpg)
 
 * **What it shows**: LifeXP homepage
 * **Why it's important**: Demonstrates brand usage, slogan, and onboarding call-to-action. Shows the trademark in commercial use.
 
 ### 📊 lifexp-dashboard.png
 
+![LifeXP Dashboard Screenshot](./lifexp-dashboard.png)
+
 * **What it shows**: Logged-in user dashboard with XP token list
 * **Why it's important**: Shows real-world interaction with the product, including categories, token metadata, and the connected wallet interface.
 
 ### 🎯 lifexp-claimables.png
 
+![LifeXP Claimables Screenshot](./lifexp-claimables.png)
+
 * **What it shows**: Public view of claimable XP tokens
 * **Why it's important**: Demonstrates LifeXP’s marketplace-like features and engagement between providers and LifeXPers.
 
 ### 🔍 lifexp-tokendetail.png
+
+![LifeXP Token Detail Screenshot](./lifexp-tokendetail.png)
 
 * **What it shows**: Token detail modal with full metadata display
 * **Why it's important**: Useful for illustrating the core function of LifeXP — minting and displaying verifiable experiences on-chain.

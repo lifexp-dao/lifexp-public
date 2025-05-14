@@ -30,12 +30,17 @@ These descriptions are tailored for submission to the USPTO (U.S.) and UK IPO (U
 
 ## Notes for Submission
 
-* Owner: **LifeXP DAO LLC** (upon formation)
+* Owner: **LifeXP Collective LLC** (formerly referenced as LifeXP DAO LLC)
+
 * Use ™ symbol immediately; ® once the mark is registered
+
 * Submit through the official portals:
 
   * USPTO TEAS Standard: [https://www.uspto.gov/trademarks/apply](https://www.uspto.gov/trademarks/apply)
   * UK IPO Online Application: [https://www.gov.uk/apply-for-a-trade-mark](https://www.gov.uk/apply-for-a-trade-mark)
+
 * These descriptions can be pasted directly into the relevant fields in each system or third-party provider tool (e.g., Trademarkia).
 
-For best results, include a screenshot of the LifeXP dApp, dashboard, or claimable flow as a specimen of use.
+**Specimen Note:**
+
+> For best results, include a screenshot of the LifeXP dApp, dashboard, or claimable flow (e.g., `lifexp-home.jpg`) as a specimen of use. Ensure the image is in `.jpg` or `.pdf` format per USPTO requirements.

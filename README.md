@@ -60,6 +60,6 @@ LifeXP DAO aims to operate as a community-governed, legally structured, and on-c
 
 ---
 
-**© 2025 LifeXP DAO LLC**
+**© 2025 LifeXP Collective LLC**
 
 > This repo is maintained by the core stewards of the LifeXP DAO. All documents are published under fair use for legal and community transparency. No strategic content or source code is stored here.
