@@ -4,15 +4,9 @@ These descriptions are tailored for submission to the USPTO (U.S.) and UK IPO (U
 
 ---
 
-## 🇺🇸 / 🇬🇧 Class 9 – Downloadable Software / NFTs
 
-**Description:**
 
-> Downloadable software for issuing, displaying, and managing non-fungible tokens (NFTs); downloadable decentralized application (dApp) software for creating and verifying life experience records on a blockchain; downloadable software for managing digital collectibles and smart contract interactions; downloadable computer programs for experience tracking, digital identity management, and Web3 marketplace participation.
-
----
-
-## 🇺🇸 / 🇬🇧 Class 42 – Software as a Service (SaaS) / Platform Services
+## 🇺🇸 / 🇬🇧 Class 42 – Software as a Service (SaaS) / Platform Services (Current)
 
 **Description:**
 
@@ -20,7 +14,15 @@ These descriptions are tailored for submission to the USPTO (U.S.) and UK IPO (U
 
 ---
 
-## 🇺🇸 / 🇬🇧 Class 35 – Online Marketplace / Experience Curation
+## 🇺🇸 / 🇬🇧 Class 9 – Downloadable Software / NFTs (Possible for Later Phases)
+
+**Description:**
+
+> Downloadable software for issuing, displaying, and managing non-fungible tokens (NFTs); downloadable decentralized application (dApp) software for creating and verifying life experience records on a blockchain; downloadable software for managing digital collectibles and smart contract interactions; downloadable computer programs for experience tracking, digital identity management, and Web3 marketplace participation.
+
+---
+
+## 🇺🇸 / 🇬🇧 Class 35 – Online Marketplace / Experience Curation (possible for Later Phases)
 
 **Description:**
 
@@ -28,19 +30,3 @@ These descriptions are tailored for submission to the USPTO (U.S.) and UK IPO (U
 
 ---
 
-## Notes for Submission
-
-* Owner: **LifeXP Collective LLC** (formerly referenced as LifeXP DAO LLC)
-
-* Use ™ symbol immediately; ® once the mark is registered
-
-* Submit through the official portals:
-
-  * USPTO TEAS Standard: [https://www.uspto.gov/trademarks/apply](https://www.uspto.gov/trademarks/apply)
-  * UK IPO Online Application: [https://www.gov.uk/apply-for-a-trade-mark](https://www.gov.uk/apply-for-a-trade-mark)
-
-* These descriptions can be pasted directly into the relevant fields in each system or third-party provider tool (e.g., Trademarkia).
-
-**Specimen Note:**
-
-> For best results, include a screenshot of the LifeXP dApp, dashboard, or claimable flow (e.g., `lifexp-home.jpg`) as a specimen of use. Ensure the image is in `.jpg` or `.pdf` format per USPTO requirements.
