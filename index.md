@@ -1,47 +1,65 @@
-# 🌍 LifeXP DAO Public Transparency Hub
+# LifeXP Collective LLC – Public Repository
 
-Welcome to the public governance and legal documentation space for **LifeXP DAO** — a decentralized autonomous organization dedicated to verifying and rewarding meaningful life experiences on-chain.
+Welcome to the **public-facing legal and governance documentation** for **LifeXP Collective LLC**, a decentralized autonomous organization committed to verifying and rewarding real-life experiences using blockchain technology.
 
-This site is hosted via GitHub Pages and serves as the canonical reference for:
+This repo contains transparency materials required for:
 
-* DAO charter and governance structure
-* Trademark registration support materials
-* Legal transparency and specimen evidence
+* DAO legal recognition (e.g., Wyoming DAO LLC filing)
+* Trademark filing and brand protection
+* ENS and public metadata references
 
----
-
-## 📜 Governance
-
-* 📄 [LifeXP DAO Charter](./lifexp-dao-charter.md)
-
-  * Outlines the DAO's purpose, legal entity, smart contract layer, and amendment process
-
-* 📄 [View DAO Legal Status](./dao-legal-status.md)
-
-
-## 🛡 Trademark
-
-* 📝 [Trademark Class Descriptions](./trademark/lifexp-trademark-descriptions.md)
-
-  * For USPTO and UK IPO use
-* 🖼 [UI Screenshots](./screenshots)
-
-  * Specimens of use for Class 9 / Class 42 filings
-
-## ⚖ License
-
-* 📘 [Creative Commons Attribution 4.0](./LICENSE)
-
-  * All documents in this repo may be reused with attribution
+> 🔐 Note: All strategy, financial, and technical development documents are maintained privately in our core repositories.
 
 ---
 
-## 🔗 Additional Info
+## 🔗 Key Documents
 
-* ENS: [`lifexp.eth`](https://app.ens.domains/name/lifexp.eth)
-* GitHub Org: [lifexp-dao](https://github.com/lifexp-dao)
-* Contact: `lifexp.dao [at] proton.me`
+### 🏛 DAO Charter
+
+* [lifexp-dao-charter.md](./legal/lifexp-dao-charter.md)
+* Governs how the DAO operates, votes, and evolves
+* 📄 [View DAO Legal Status](./legal/dao-legal-status.md)
+
+
+### 🛡 Trademark Filing
+
+* [trademark/lifexp-trademark-descriptions.md](./trademark/lifexp-trademark-descriptions.md)
+* Descriptions and classes for USPTO and UK IPO filings
+* Specimens of use located in `/screenshots/`
+
+### 📎 ENS Metadata
+
+* ENS domain: `lifexp.eth`
+* Text records (linked to this repo):
+
+  * `charter`: GitHub URL to charter
+  * `links`: Public metadata and contact
 
 ---
 
-> **Built by the LifeXP community**. This repo reflects our belief in transparent, verifiable systems for human growth and experience.
+## 👁 Transparency Policy
+
+LifeXP DAO aims to operate as a community-governed, legally structured, and on-chain native project. We believe in selective transparency — open where it builds trust, private where it protects innovation.
+
+* ✅ Charter and legal filings: Public
+* 🔒 Strategy, roadmap, and internal ops: Private
+* ✅ Community governance outcomes: Summarized periodically
+
+📄 Governance Strategy: [lifexp-dao-strategy.md](./lifexp-dao-strategy.md)
+📚 Provider Rules & Proposals: See Sections 13–15 of Strategy
+
+
+---
+
+## 📬 Contact
+
+* Email: lifexp.dao \[at] proton.me
+* GitHub Org: [github.com/lifexp](https://github.com/lifexp)
+- ENS Identity: [lifexp.eth](https://app.ens.domains/name/lifexp.eth)
+- Contact: [lifexp.dao@proton.me](mailto:lifexp.dao@proton.me)
+
+---
+
+**© 2025 LifeXP Collective LLC**
+
+> This repo is maintained by the core stewards of the LifeXP DAO. All documents are published under fair use for legal and community transparency. No strategic content or source code is stored here.
