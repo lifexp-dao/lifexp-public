@@ -37,7 +37,7 @@ This repo contains transparency materials required for:
 
 ---
 
-## 👁 Transparency Policy
+## 👁 Transparency & Security Policy
 
 LifeXP DAO aims to operate as a community-governed, legally structured, and on-chain native project. We believe in selective transparency — open where it builds trust, private where it protects innovation.
 
@@ -48,6 +48,7 @@ LifeXP DAO aims to operate as a community-governed, legally structured, and on-c
 📄 Governance Strategy: [lifexp-dao-strategy.md](./lifexp-dao-strategy.md)
 📚 Provider Rules & Proposals: See Sections 13–15 of Strategy
 
+* Security Playbook - [LifeXP Security Playbook](./security/lifexp-security-playbook.md)
 
 ---
 
