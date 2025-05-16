@@ -12,7 +12,10 @@ As of **May 5, 2025**, LifeXP DAO has entered formal legal formation as a decent
 * **Filing Date:** May 5, 2025
 * **State Entity ID:** 2025-001677185
 * **Registered Agent:** Wyoming Registered Agent LLC (Cheyenne, WY)
+* **Principal Address (Public):** 1621 Central Ave, Cheyenne, WY 82001, United States
+* **Mailing Address (Public):** 1621 Central Ave, Cheyenne, WY 82001, United States
 * **Charter:** [LifeXP DAO Charter (Public Repo)](https://github.com/lifexp-dao/lifexp-public/blob/main/lifexp-dao-charter.md)
+* **Articles of Organization:** [Filed Document (Private DAO Archive)](https://github.com/lifexp-dao/lifexp-public) *(internal reference only)*
 
 ---
 

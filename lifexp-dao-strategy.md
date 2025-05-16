@@ -1,4 +1,4 @@
-## LifeXP DAO Strategy & Legal Model
+## LifeXP DAO Strategy & Legal Model (DRAFT)
 
 ### 1. What is the LifeXP DAO?
 - The LifeXP DAO is a decentralized governance mechanism for the LifeXP ecosystem.

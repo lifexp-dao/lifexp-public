@@ -1,6 +1,6 @@
-# LifeXP DAO – Public Repository
+# LifeXP Collective LLC – Public Repository
 
-Welcome to the **public-facing legal and governance documentation** for **LifeXP DAO**, a decentralized autonomous organization committed to verifying and rewarding real-life experiences using blockchain technology.
+Welcome to the **public-facing legal and governance documentation** for **LifeXP Collective LLC**, a decentralized autonomous organization committed to verifying and rewarding real-life experiences using blockchain technology.
 
 This repo contains transparency materials required for:
 
@@ -16,9 +16,9 @@ This repo contains transparency materials required for:
 
 ### 🏛 DAO Charter
 
-* [lifexp-dao-charter.md](./lifexp-dao-charter.md)
+* [lifexp-dao-charter.md](./legal/lifexp-dao-charter.md)
 * Governs how the DAO operates, votes, and evolves
-* 📄 [View DAO Legal Status](./dao-legal-status.md)
+* 📄 [View DAO Legal Status](./legal/dao-legal-status.md)
 
 
 ### 🛡 Trademark Filing
@@ -55,8 +55,8 @@ LifeXP DAO aims to operate as a community-governed, legally structured, and on-c
 
 * Email: lifexp.dao \[at] proton.me
 * GitHub Org: [github.com/lifexp](https://github.com/lifexp)
-* Twitter/X: [@LifeXP\_DAO](https://twitter.com/LifeXP_DAO)
-* ENS: `lifexp.eth`
+- ENS Identity: [lifexp.eth](https://app.ens.domains/name/lifexp.eth)
+- Contact: [lifexp.dao@proton.me](mailto:lifexp.dao@proton.me)
 
 ---
 
