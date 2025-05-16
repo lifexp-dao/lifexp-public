@@ -25,7 +25,7 @@ This repo contains transparency materials required for:
 
 * [trademark/lifexp-trademark-descriptions.md](./trademark/lifexp-trademark-descriptions.md)
 * Descriptions and classes for USPTO and UK IPO filings
-* Specimens of use located in `/screenshots/`
+* Specimens of use located in [screenshots](./screenshots/README.md)
 
 ### 📎 ENS Metadata
 
