@@ -1,5 +1,15 @@
 # LifeXP Collective LLC – Public Repository
 
+## 🌍 LifeXP is Live!
+
+You can now explore the LifeXP dApp at:  
+🔗 [https://lifexp.world](https://lifexp.world)
+
+Mint verifiable experiences, discover trusted providers, and track your XP across categories — all powered by Ethereum + IPFS.
+
+Join us on the journey to build a decentralized reputation system for real life.
+
+
 Welcome to the **public-facing legal and governance documentation** for **LifeXP Collective LLC**, a decentralized autonomous organization committed to verifying and rewarding real-life experiences using blockchain technology.
 
 This repo contains transparency materials required for:
